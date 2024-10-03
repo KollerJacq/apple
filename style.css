@@ -1,3 +1,10 @@
+.navbar {
+  padding: 0;
+  width: 100%;
+}
+.container-fluid {
+  padding: 0;
+}
 .navbar-text {
   background-color: rgb(34, 34, 34);
   color: rgb(164, 164, 164);
@@ -5,17 +12,46 @@
   justify-content: center;
   width: 100%;
 }
-
 .navbar-text a {
   margin: 0 15px;
   text-decoration: none;
   color: rgb(164, 164, 164);
 }
-
 .logo {
   width: 45px;
 }
 .lupe {
   margin-left: 20px;
   margin-right: 30px;
+}
+.firstSection {
+  display: block;
+  height: auto;
+  overflow: visible;
+  width: 100%;
+}
+.iphone {
+  background-image: url(iphone-16-pro_overview__ejy873nl8yi6_og.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.header {
+  color: #fff;
+  display: flex;
+  justify-content: center;
+  padding-top: 100px;
+}
+.iphoneButtons {
+  display: flex;
+  justify-content: center;
+  margin-top: 650px;
+  padding-bottom: 50px;
+}
+.btn {
+  color: rgb(50, 89, 198);
+  border-color: rgb(50, 89, 198);
+  border-radius: 20px;
+}
+.btn-primary {
+  color: #fff;
 }
