@@ -94,6 +94,10 @@
   overflow: visible;
   width: 100%;
 }
+
+.logoBig {
+  height: 60px;
+}
 .watchButtons {
   display: flex;
   justify-content: center;
