@@ -25,6 +25,7 @@
   margin-right: 30px;
 }
 .firstSection {
+  background-color: #000000;
   display: block;
   height: auto;
   overflow: visible;
@@ -32,8 +33,9 @@
 }
 .iphone {
   background-image: url(iphone-16-pro_overview__ejy873nl8yi6_og.png);
-  background-size: cover;
   background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center;
 }
 .header {
   color: #fff;
@@ -54,4 +56,5 @@
 }
 .btn-primary {
   color: #fff;
+  margin-right: 15px;
 }
