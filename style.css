@@ -44,7 +44,7 @@
   font-weight: 600;
   display: flex;
   justify-content: center;
-  padding-top: 100px;
+  padding-top: 60px;
 }
 .iphoneButtons {
   display: flex;
@@ -81,4 +81,16 @@
   background-size: cover;
   background-position: center;
   padding-top: 10px;
+}
+.thirdSection {
+  background-image: url(hero_apple_watch_series_10_avail_lte__esu66gaw6dci_largetall_2x.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top: 10px;
+  cursor: pointer;
+  display: block;
+  height: auto;
+  overflow: visible;
+  width: 100%;
 }
