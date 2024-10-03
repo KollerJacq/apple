@@ -31,12 +31,11 @@
   height: auto;
   overflow: visible;
   width: 100%;
-}
-.iphone {
-  background-image: url(iphone-16-pro_overview__ejy873nl8yi6_og.png);
+  background-image: url(hero_iphone16pro_avail__fnf0f9x70jiy_largetall_2x.jpg);
   background-repeat: no-repeat;
-  background-size: contain;
+  background-size: cover;
   background-position: center;
+  margin-bottom: 10px;
 }
 .header {
   color: #fff;
@@ -70,4 +69,16 @@
   margin-right: 15px;
   width: 150px;
   height: 45px;
+}
+.secondSection {
+  cursor: pointer;
+  display: block;
+  height: auto;
+  overflow: visible;
+  width: 100%;
+  background-image: url(hero_iphone16_avail__euwzls69btea_largetall.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top: 10px;
 }
