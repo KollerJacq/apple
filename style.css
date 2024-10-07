@@ -94,6 +94,35 @@
   overflow: visible;
   width: 100%;
 }
+.headerWatch {
+  display: flex;
+  justify-content: center;
+  margin-top: 40px;
+}
+.headerWatch img {
+  height: 48px;
+  margin-top: 6px;
+}
+.headerWatch h1 {
+  font-size: 50px;
+  font-weight: 650;
+}
+.subheaderWatch {
+  text-align: center;
+  margin-top: -10px;
+  margin-bottom: 20px;
+}
+.subheaderWatch div {
+  font-size: 22px;
+  font-weight: 500;
+  letter-spacing: 3px;
+  margin-left: 15px;
+}
+.subheaderWatch p {
+  font-size: 30px;
+  font-weight: 400;
+  letter-spacing: -1px;
+}
 
 .logoBig {
   height: 60px;
@@ -101,6 +130,5 @@
 .watchButtons {
   display: flex;
   justify-content: center;
-  margin-top: 200px;
-  padding-bottom: 50px;
+  padding-bottom: 400px;
 }
