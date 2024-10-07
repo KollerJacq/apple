@@ -12,10 +12,22 @@
   justify-content: center;
   width: 100%;
 }
+.navbar-text img {
+  height: 20px;
+  width: auto;
+}
 .navbar-text a {
-  margin: 0 15px;
+  margin: 0 20px;
   text-decoration: none;
   color: rgb(164, 164, 164);
+  font-size: 12px;
+  margin-top: 2px;
+}
+.navbar-text a:hover,
+.navbar-text img:hover {
+  color: #e3e3e3;
+  cursor: pointer;
+  transition: all 0.2s ease-in-out;
 }
 .logo {
   width: 45px;
