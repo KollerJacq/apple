@@ -147,4 +147,57 @@
 .forthSection {
   display: grid;
   grid-template-columns: 1fr 1fr;
+  grid-gap: 10px;
+  position: relative;
+  width: 100%;
+  padding: 10px;
+}
+.appleWatchUltra {
+  background-image: url(promo_apple_watch_ultra2_avail__dyawbjw9cowi_large.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 500px;
+  padding: 10px;
+}
+
+.airpods4 {
+  background-image: url(promo_airpods_4_avail__bl22kvpg6ez6_large.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 500px;
+  padding: 10px;
+}
+.airpodsPro {
+  background-image: url(promo_airpods_pro_2_avail__vkitqi3okwie_large.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 500px;
+  padding: 10px;
+}
+.airpodsMax {
+  background-image: url(promo_airpodsmax_announce__2srayzjz3iay_large.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 500px;
+  padding: 10px;
+}
+.macbook {
+  background-image: url(promo_macbook_air_m3__e43jegok3wuq_large.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 500px;
+  padding: 10px;
+}
+.iphoneTradein {
+  background-image: url(promo_iphone_tradein__bugw15ka691e_large.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 500px;
+  padding: 10px;
 }
